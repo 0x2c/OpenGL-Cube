@@ -2,6 +2,7 @@ Displays spinning 3D Cube
 =========================
 OpenGL/Glut 3.7.6  
 Right-handed coordinate space  
+Row-major matrices
  
 Commands 
 --------
